@@ -25,7 +25,6 @@ public class Main {
         Libro2.setnEJemplares(nEjemplares);
         Libro2.setnEJemplaresPrestados(nEjemplaresPrestados);
  
-        // Menú
         int opcion;
         do {
             System.out.println("\n--- MENÚ ---");
@@ -85,4 +84,3 @@ public class Main {
         sc.close();
     }
 }
- 
